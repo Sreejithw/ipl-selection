@@ -1,0 +1,124 @@
+{
+	"players": [
+    {
+		"id":"1",
+		"name": "Player 1",
+		"value": 10000,
+        "battingRank": 1,
+        "bowlingRank": 5,
+        "allrounderRank": 10
+	}, 
+    {
+		"id":"2",
+		"name": "Player 2",
+		"value": 20000,
+		"battingRank": 3,
+        "bowlingRank": 6,
+        "allrounderRank": 9
+	},
+    {
+		"id":"3",
+		"name": "Player 3",
+		"value": 20000,
+		"battingRank": 4,
+        "bowlingRank": 7,
+        "allrounderRank": 8
+	},
+    {
+		"id":"4",
+		"name": "Player 4",
+		"value": 25000,
+		"battingRank": 4,
+        "bowlingRank": 2,
+        "allrounderRank": 10
+	},
+    {
+		"id":"5",
+		"name": "Player 5",
+		"value": 50000,
+		"battingRank": 11,
+        "bowlingRank": 9,
+        "allrounderRank": 6
+	},
+    {
+		"id":"6",
+		"name": "Player 6",
+		"value": 30000,
+		"battingRank": 3,
+        "bowlingRank": 5,
+        "allrounderRank": 7
+	},
+    {
+		"id":"7",
+		"name": "Player 7",
+		"value": 10000,
+		"battingRank": 2,
+        "bowlingRank": 3,
+        "allrounderRank": 4
+	},
+    {
+		"id":"8",
+		"name": "Player 8",
+		"value": 10000,
+		"battingRank": 3,
+        "bowlingRank": 5,
+        "allrounderRank": 4
+	},
+    {
+		"id":"9",
+		"name": "Player 9",
+		"value": 20000,
+		"battingRank": 4,
+        "bowlingRank": 6,
+        "allrounderRank": 5
+	},
+    {
+		"id":"10",
+		"name": "Player 10",
+		"value": 30000,
+		"battingRank": 5,
+        "bowlingRank": 4,
+        "allrounderRank": 5
+	},
+    {
+		"id":"11",
+		"name": "Player 11",
+		"value": 20000,
+		"battingRank": 4,
+        "bowlingRank": 5,
+        "allrounderRank": 3
+	},
+    {
+		"id":"12",
+		"name": "Player 12",
+		"value": 10000,
+		"battingRank": 3,
+        "bowlingRank": 2,
+        "allrounderRank": 3
+	},
+    {
+		"id":"13",
+		"name": "Player 13",
+		"value": 40000,
+		"battingRank": 6,
+        "bowlingRank": 7,
+        "allrounderRank": 10
+	},
+    {
+		"id":"14",
+		"name": "Player 14",
+		"value": 30000,
+		"battingRank": 6,
+        "bowlingRank": 4,
+        "allrounderRank": 5
+	},
+    {
+		"id":"15",
+		"name": "Player 15",
+		"value": 50000,
+		"battingRank": 8,
+        "bowlingRank": 11,
+        "allrounderRank": 9
+	}
+	]
+}
